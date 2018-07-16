@@ -2,5 +2,7 @@
     "python.pythonPath": "C:\\_CodeTooling\\python3\\python.exe",
     "python.linting.enabled": true,
     "editor.tabSize": 2,
-    "editor.fontFamily": "Roboto Mono Light"
+    "editor.fontFamily": "Roboto Mono Light",
+    "python.unitTest.unittestEnabled": true,
+    "python.maxNumberOfProblems": 10000
   }
