@@ -8,10 +8,10 @@ try:
   from urllib.error import HTTPError as urllib_HTTP_error
 except ImportError:
   import Tkinter as tkinter       # Python 2.7
-  import ttk
-  import urllib2 as urllib_request
-  from urllib2 import URLError as urllib_URL_error
-  from urllib2 import HTTPError as urllib_HTTP_error
+  # import ttk
+  # import urllib2 as urllib_request
+  # from urllib2 import URLError as urllib_URL_error
+  # from urllib2 import HTTPError as urllib_HTTP_error
 import json
 
 
